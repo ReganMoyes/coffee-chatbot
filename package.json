@@ -1,0 +1,28 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "A coffee themed chatbot",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ReganMoyes/coffee-chatbot.git"
+  },
+  "author": "Regan Moyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReganMoyes/coffee-chatbot/issues"
+  },
+  "homepage": "https://github.com/ReganMoyes/coffee-chatbot#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
